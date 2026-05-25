@@ -5,4 +5,5 @@ bcrypt
 python-jose
 python-dotenv
 pydantic
+alembic
 python-multipart
