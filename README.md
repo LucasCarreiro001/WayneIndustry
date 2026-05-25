@@ -64,7 +64,7 @@ industrias-wayne/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/industrias-wayne.git
+git clone https://github.com/LucasCarreiro001/industrias-wayne.git
 cd industrias-wayne
 ```
 
